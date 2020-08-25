@@ -1,4 +1,6 @@
-﻿using System;
+//A program to find out the GCD of two numbers
+
+using System;
 namespace myproject
 {
     public class GCD

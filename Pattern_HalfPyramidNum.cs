@@ -12,7 +12,7 @@ namespace myproject
 {
     public class Pattern_HalfPyramidNum
     {
-        public static void main(string[] args)
+        public static void Main(string[] args)
         {
             int space, rows;
             Console.WriteLine("A program to print pyramid pattern of numbers:");

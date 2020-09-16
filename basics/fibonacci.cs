@@ -1,4 +1,4 @@
-﻿//A program to print fibonacci series of n terms
+//A program to print fibonacci series of n terms
 
 using System;
 namespace myproject

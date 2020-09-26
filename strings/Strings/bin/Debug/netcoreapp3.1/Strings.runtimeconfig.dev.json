@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/cryptic/.dotnet/store/|arch|/|tfm|",
+      "/home/cryptic/.nuget/packages"
+    ]
+  }
+}

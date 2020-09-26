@@ -1,0 +1,13 @@
+/home/cryptic/RiderProjects/Strings/bin/Debug/netcoreapp3.1/Strings
+/home/cryptic/RiderProjects/Strings/bin/Debug/netcoreapp3.1/Strings.deps.json
+/home/cryptic/RiderProjects/Strings/bin/Debug/netcoreapp3.1/Strings.runtimeconfig.json
+/home/cryptic/RiderProjects/Strings/bin/Debug/netcoreapp3.1/Strings.runtimeconfig.dev.json
+/home/cryptic/RiderProjects/Strings/bin/Debug/netcoreapp3.1/Strings.dll
+/home/cryptic/RiderProjects/Strings/bin/Debug/netcoreapp3.1/Strings.pdb
+/home/cryptic/RiderProjects/Strings/obj/Debug/netcoreapp3.1/Strings.csprojAssemblyReference.cache
+/home/cryptic/RiderProjects/Strings/obj/Debug/netcoreapp3.1/Strings.AssemblyInfoInputs.cache
+/home/cryptic/RiderProjects/Strings/obj/Debug/netcoreapp3.1/Strings.AssemblyInfo.cs
+/home/cryptic/RiderProjects/Strings/obj/Debug/netcoreapp3.1/Strings.csproj.CoreCompileInputs.cache
+/home/cryptic/RiderProjects/Strings/obj/Debug/netcoreapp3.1/Strings.dll
+/home/cryptic/RiderProjects/Strings/obj/Debug/netcoreapp3.1/Strings.pdb
+/home/cryptic/RiderProjects/Strings/obj/Debug/netcoreapp3.1/Strings.genruntimeconfig.cache

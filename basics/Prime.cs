@@ -17,23 +17,29 @@ namespace myproject
             {
                 Console.WriteLine("Enter the number: ");
                 n = int.Parse(Console.ReadLine());
-
-                for (m = 2; m <= n / 2; m++)
+                if (n == 0)
                 {
-                    if (n % m == 0)
-                    {
-                        count = count + 1;
-                    }
-
-                }
-                if (count == 0)
-                {
-                    Console.WriteLine("The number " + n + " is a prime number");
+                    Console.WriteLine("The number " + n + " is NOT a prime number");
                 }
                 else
                 {
-                    Console.WriteLine("The number " + n + " is NOT a prime number");
-                    count = 0;
+                    for (m = 2; m <= n / 2; m++)
+                    {
+                        if (n % m == 0)
+                        {
+                            count = count + 1;
+                        }
+
+                    }
+                    if (count == 0)
+                    {
+                        Console.WriteLine("The number " + n + " is a prime number");
+                    }
+                    else
+                    {
+                        Console.WriteLine("The number " + n + " is NOT a prime number");
+                        count = 0;
+                    }   
                 }
             }
         }
